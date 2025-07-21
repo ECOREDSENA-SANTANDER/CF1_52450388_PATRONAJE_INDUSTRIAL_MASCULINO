@@ -1,9 +1,10 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
+    Name: 'Conceptos básicos de patronaje',
+    Description:
+      'Comprender los fundamentos del patronaje industrial es clave para alcanzar eficiencia, sostenibilidad, calidad y precisión en la producción textil masiva. Partiendo del estudio de la antropometría, los puntos de referencia anatómicos, la toma y clasificación de medidas, el uso de herramientas, las convenciones de señalización y el procedimiento para trazar patrones masculinos, de acuerdo con los cuadros de tallas estandarizados y las especificaciones técnicas.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.jpg'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
@@ -31,13 +32,28 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Conceptos básicos',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'Historia del patronaje',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Antropometría, anatomía y ejes del cuerpo',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Convenciones en la señalización de patrones',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Figuras geométricas y materiales requeridos',
+            hash: 't_1_4',
           },
         ],
       },
@@ -45,13 +61,48 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Medidas del cuerpo',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Puntos de referencia corporales anatómicos',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Toma de medidas',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.2.1',
+            titulo: 'Medidas generales',
+            hash: 't_2_2_1',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Clasificación y aplicación de medidas',
+            hash: 't_2_3',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Procedimiento del patronaje',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: '3.1	Elaboración de patrones',
+            hash: 't_3_1',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Cuadro de tallas y medidas normalizadas masculinas',
         desarrolloContenidos: true,
       },
     ],
