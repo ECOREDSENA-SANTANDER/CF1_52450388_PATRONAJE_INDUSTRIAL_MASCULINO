@@ -99,12 +99,6 @@ export default {
           },
         ],
       },
-      {
-        nombreRuta: 'tema4',
-        numero: '4',
-        titulo: 'Cuadro de tallas y medidas normalizadas masculinas',
-        desarrolloContenidos: true,
-      },
     ],
     subMenu: [
       {
