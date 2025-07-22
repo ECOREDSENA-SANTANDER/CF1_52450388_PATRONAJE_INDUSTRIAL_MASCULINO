@@ -127,7 +127,9 @@
   color: #212529
 .fa-chevron-right 
   content: url('../assets/curso/Tema3/camisa.png')
-
+.bloque-texto-e i 
+  font-size: 2.5em
+  color: #4C6873
 .bg1
   background-color: #E3E4ED !important
 .bg2
@@ -192,3 +194,85 @@ figcaption
 .img-a
   display: block
   margin: auto
+
+// TARJETA HOVER  
+.nav-holder2
+  display: inline-block
+  overflow: hidden
+  position: relative
+  border-radius: 25px
+  -webkit-transform: translateZ(0)
+  -moz-transform: translateZ(0)
+  transform: translateZ(0)
+.nav-holder2 *, .nav-holder2 *:before, .nav-holder2 *:after
+  -webkit-box-sizing: border-box
+  -moz-box-sizing: border-box
+  box-sizing: border-box
+  -webkit-transition: all 0.45s ease
+  -moz-transition: all 0.45s ease
+  transition: all 0.45s ease
+.nav-holder2:before
+  position: absolute
+  top: -13%
+  bottom: 0
+  left: 0
+  right: 0
+  content: ''
+  background-color: #454964
+  opacity: 1
+  z-index: 888
+  -webkit-transition: all 0.45s ease
+  -moz-transition: all 0.45s ease
+  -ms-transition: all 0.45s ease
+  transition: all 0.45s ease
+  -webkit-transform: translateY(85%)
+  -moz-transform: translateY(85%)
+  transform: translateY(85%)
+.nav-holder2:hover:before
+  -webkit-transform: translateY(30%)
+  -moz-transform: translateY(30%)
+  transform: translateY(30%)
+  opacity: 1
+  -webkit-transition-delay: 0.1s
+  -moz-transition-delay: 0.1s
+  transition-delay: 0.1s
+  background-color: #E3DCD9
+.nav-holder2
+  .text
+    position: absolute
+    top: 75%
+    bottom: 0px
+    left: 0px
+    right: 0px
+    z-index: 999
+    bottom: 0
+    padding: 1em
+  img
+    backface-visibility: hidden
+    max-width: 100%
+    vertical-align: top
+    z-index: 0
+  p
+    margin: 0
+    opacity: 0
+    line-height: 1.2em
+.nav-holder2 h4
+  margin: 0
+  opacity: 1
+.nav-holder2:hover
+  .text
+    top: 25%
+  h4, p
+    opacity: 1
+    color: $color-sistema-texto
+@media (max-width: $bp-max-xs)    
+  .nav-holder2 .text
+    top: 75%
+  .nav-holder2:hover .text 
+    top: 24%
+  .nav-holder2:hover:before
+    -webkit-transform: translateY(30%)
+    -moz-transform: translateY(30%)
+    transform: translateY(30%)
+.nav-holder2 *, .nav-holder2 *:before, .nav-holder2 *:after 
+  color: #ffff 

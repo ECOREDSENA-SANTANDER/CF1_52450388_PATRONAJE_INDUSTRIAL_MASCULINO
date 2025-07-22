@@ -20,7 +20,7 @@
         img(src='@/assets/curso/Tema3/img02.png', alt='') 
     
     separador
-    #t_1_1.titulo-segundo.mb-5
+    #t_3_1.titulo-segundo.mb-5
       h2 3.1 Elaboración de patrones
 
     p Elaborar un patrón para una prenda de vestir equivale a la construcción técnica de las piezas con las que se conforma la misma, aplicando acotaciones y medidas en concordancia con la anatomía física de una persona.
