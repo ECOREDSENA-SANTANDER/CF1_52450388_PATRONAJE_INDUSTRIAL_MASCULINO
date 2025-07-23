@@ -9,7 +9,7 @@
       h1 Introducción
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-5
+      .col-lg-5.mb-3
         img(src='@/assets/curso/portada/img01.png', alt='')
       .col-lg-7
         p El presente material de formación permitirá conocer los conceptos básicos del patronaje industrial, necesarios para el trazado de patrones de la línea masculina. Se aborda también el análisis y reconocimiento de los puntos de referencia corporales masculinos, que son de gran importancia para realizar la toma de medidas y comprender el cuadro de tallas normalizadas.
