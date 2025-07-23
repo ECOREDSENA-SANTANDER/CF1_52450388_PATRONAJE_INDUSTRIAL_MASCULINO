@@ -142,21 +142,132 @@ export default {
   },
   complementario: [
     {
-      tema: 'Tema 1',
-      referencia: 'Texto',
-      tipo: 'Sitio web',
-      link: 'Link',
+      tema: 'Procedimiento del patronaje',
+      referencia:
+        'SENA. (2011). Manual de patronaje básico e interpretación de diseños. ',
+      tipo: 'PDF',
+      link:
+        'https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF?sequence=1&isAllowed=y',
+    },
+    {
+      tema: 'Medidas del cuerpo',
+      referencia:
+        'Ecosistema de Recursos Educativos. (2020). Patronaje industrial masculino: toma de medidas',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=UkwF4YVTnLU',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Acromio',
+      significado:
+        'parte más elevada del omóplato, articulada con la extremidad externa de la clavícula.',
+    },
+    {
+      termino: 'Anatomía',
+      significado:
+        'es la ciencia que estudia la estructura, forma y relaciones de las diferentes partes del cuerpo humano.',
+    },
+    {
+      termino: 'Antropometría',
+      significado:
+        '(del griego <i>ánthropos</i>, hombre y metro, medida; y el sufijo - ia, cualidad) estudia las medidas y dimensiones de partes del cuerpo humano, ya que estas varían de un individuo a otro. Esta se clasifica en estática o estructural (estudia las medidas de cabeza, troncos y extremidades en posiciones fijas) y funcional (estudio de medidas del cuerpo mientras está en movimiento).',
+    },
+    {
+      termino: 'Aumentos de costura',
+      significado:
+        'parte más elevada del omóplato, articulada con la extremidad externa de la clavícula.',
+    },
+    {
+      termino: 'Desahogos',
+      significado:
+        'amplitud que se le asigna al patrón base para variar o modificar los diferentes tipos de siluetas.',
+    },
+    {
+      termino: 'Escalado',
+      significado:
+        'proceso que, partiendo de los patrones básicos, se elaboran los correspondientes a las diferentes tallas en las que se desee producir un modelo específico. Se asocia a la graduación que obedece al proceso de dilatación de la figura.',
+    },
+    {
+      termino: 'Industrialización',
+      significado:
+        'recibe este nombre la serie de operaciones que consisten en preparar al patronaje para para facilitar el proceso de corte y confección de las prendas.',
+    },
+    {
+      termino: 'Patronaje',
+      significado:
+        'proceso que permite desglosar por piezas las prendas, de forma que al unirlas se logre una prenda de vestir cumpliendo especificaciones requeridas.',
+    },
+    {
+      termino: 'Símbolos de patronaje',
+      significado:
+        'son convenciones que permiten entender fácilmente las gráficas de construcción y señalización de los patrones.',
+    },
+    {
+      termino: 'Talla',
+      significado:
+        'expresión normalizada que permite identificar las personas para el uso de prendas de vestir. Medida usada para indicar el tamaño de las prendas de vestir o del calzado, ajustadas a las dimensiones de cada persona.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Antón, Pilar Cristóbal (2012). Escalar el patrón modelo. Editorial: Ministerio de Educación, Cultura y Deporte de España / CIDE Mediascopio.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ayuso, José Luis. (2008). Anatomía funcional del aparato locomotor. Editorial Wanceulen.',
+      link: '',
+    },
+    {
+      referencia:
+        'Camps, J. (1995). Manual Técnico de Patronaje Industrial Ropa Masculina. Medellín, Colombia: Comité Técnico de Costura 3.',
+      link: '',
+    },
+    {
+      referencia: 'Chunman, D. (2011). Patronaje. Barcelona, España: Ed Blume.',
+      link: '',
+    },
+    {
+      referencia:
+        'De Azevedo, R. (2019). Planos Anatómicos y Ejes del Cuerpo Humano. Recuperado de ',
+      link: 'https://www.lifeder.com/planos-anatomicos-ejes/',
+    },
+    {
+      referencia:
+        'Feyerabend, F. V. y Ghosh, F. (2009). Ilustración de Moda, Plantillas. Barcelona, España: Ed. Gustavo Gili, S.L.',
+      link: '',
+    },
+    {
+      referencia:
+        'Fuenmayor, O. (2014). Tallas y medidas: la importancia de la Antropometría en la empresa de Moda. Recuperado de ',
+      link:
+        'http://web.archive.org/web/20180421154541/http://www.modaytecnologia.com/tallas-y-medidas-la-importancia-de-la-antropometria/',
+    },
+    {
+      referencia:
+        'Kiisel, K. (2014). Drapeados. Curso Completo pata crear Prendas sobre un Maniquí. Barcelona, España: Ed Blume.',
+      link: '',
+    },
+    {
+      referencia:
+        'Serra, R. (1998). Método Práctico de Corte y Confección. Barcelona, España: Ed Edicomunicacion S.A.',
+      link: '',
+    },
+    {
+      referencia:
+        'Soto, Jesús. (2009). Anatomía de superficie. Editorial Médica Panamericana.',
+      link: '',
+    },
+    {
+      referencia:
+        'Szkutnicka, B. (2010). El Dibujo Técnico de Moda Paso a Paso. Barcelona, España: Ed Gustavo Gili, SL.',
+      link: '',
+    },
+    {
+      referencia:
+        'Takamura, Z. (2007). Diseño de Moda, Conceptos Básicos y Aplicaciones Prácticas de Ilustración de Moda. Barcelona, España: Ed. Promopress.',
       link: '',
     },
   ],
