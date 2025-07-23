@@ -65,22 +65,22 @@
                 .col-lg-5
                   ul.lista-ul--color
                     li.mb-1
-                      i.fas.fa-chevron-right
+                      i.fas.fa-circle-chevron-right
                       | #[b Punto de acromio:] corresponde al punto óseo más externo y superior del hombro, que sirve como inicio para medir el largo de la manga y el ancho de la espalda.
                     li.mb-1
-                      i.fas.fa-chevron-right
+                      i.fas.fa-circle-chevron-right
                       | #[b Centro del puño o manubrio esternal:] se localiza en la parte central y superior del hueso del esternón, funcionando como referencia para el talle delantero.
                     li.mb-1
-                      i.fas.fa-chevron-right
+                      i.fas.fa-circle-chevron-right
                       | #[b Pliegues axilares delanteros:] son las líneas que se forman donde el brazo se une con el torso en la parte delantera; son cruciales para determinar el ancho de pecho.
                     li.mb-1
-                      i.fas.fa-chevron-right
+                      i.fas.fa-circle-chevron-right
                       | #[b Bíceps:] se ubica en la parte más prominente del músculo del brazo, necesario para calcular el ancho de la manga.
                     li.mb-1
-                      i.fas.fa-chevron-right
+                      i.fas.fa-circle-chevron-right
                       | #[b Cintura centro frente:]  localizado en la zona umbilical, es una referencia horizontal para tomar el contorno de cintura.
                     li.mb-1
-                      i.fas.fa-chevron-right
+                      i.fas.fa-circle-chevron-right
                       | #[b Zona perineal:] punto de referencia en la entrepierna, fundamental para determinar la medida del tiro del pantalón.
 
             .relleno.py-3.py-md-4(titulo="Puntos de referencia anatómicos laterales").fondotabs
@@ -101,13 +101,13 @@
                 .col-lg-5
                   ul.lista-ul--color
                     li.mb-1
-                      i.fas.fa-chevron-right
+                      i.fas.fa-circle-chevron-right
                       | #[b Fosa axilar:] es el punto hueco central ubicado directamente debajo del brazo.
                     li.mb-1
-                      i.fas.fa-chevron-right
+                      i.fas.fa-circle-chevron-right
                       | #[b Terminación de la reja costal:] corresponde al final de las costillas, un punto importante para definir la altura del talle y la cintura.
                     li.mb-1
-                      i.fas.fa-chevron-right
+                      i.fas.fa-circle-chevron-right
                       | #[b Apófisis estiloide del radio:] es el hueso prominente que sobresale en la muñeca, del lado del dedo pulgar. Sirve como punto final para medir el largo de la manga.
                   
             .relleno.py-3.py-md-4(titulo="Puntos de referencia anatómicos posteriores").fondotabs
@@ -128,22 +128,22 @@
                 .col-lg-5
                   ul.lista-ul--color
                     li.mb-1
-                      i.fas.fa-chevron-right
+                      i.fas.fa-circle-chevron-right
                       | #[b Fosa supraclavicular (ángulo cuello - hombro):] se ubica en el punto exacto donde la base del cuello se encuentra con el inicio del hombro.
                     li.mb-1
-                      i.fas.fa-chevron-right
+                      i.fas.fa-circle-chevron-right
                       | #[b Séptima vértebra cervical:] es la vértebra más prominente que se puede palpar en la base del cuello; es el punto de partida para medir el talle de espalda.
                     li.mb-1
-                      i.fas.fa-chevron-right
+                      i.fas.fa-circle-chevron-right
                       | #[b Pliegue posterior post- axilar:] es la línea que se forma donde el brazo se une con la espalda, utilizada para medir el ancho de espalda.
                     li.mb-1
-                      i.fas.fa-chevron-right
+                      i.fas.fa-circle-chevron-right
                       | #[b Promontorio de inicio de las vértebras lumbares:] es una referencia en la parte baja de la espalda para determinar la línea del talle posterior.
                     li.mb-1
-                      i.fas.fa-chevron-right
+                      i.fas.fa-circle-chevron-right
                       | #[b Cresta ilíaca:]  corresponde al borde superior del hueso de la cadera, palpable en los costados.
                     li.mb-1
-                      i.fas.fa-chevron-right
+                      i.fas.fa-circle-chevron-right
                       | #[b Apófisis estiloide de cúbito:] es el hueso prominente de la muñeca del lado del dedo meñique, otra referencia para el largo de manga.
 
     separador(data-aos="zoom-in-left")
@@ -259,7 +259,7 @@
 
     .row.justify-content-center.align-items-center.mb-3.fondo_pasos_t2(data-aos="fade-down")
       .col-lg-10
-        PasosA.color-primario.mb-5(tipo="l").mt-5
+        PasosA.color-acento-botones.mb-5(tipo="l").mt-5
           .row
             .col-md-7.mb-4.mb-md-0
               h3 Tiro
@@ -314,8 +314,9 @@
       .col-lg-10.col-11
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/vdPrCjWJSHo?si=X4NxENRo3LLXAua_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video. 
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/UkwF4YVTnLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption Video. Patronaje industrial masculino: toma de medidas
+
 
     separador
     #t_2_3.titulo-segundo.mb-5

@@ -75,11 +75,6 @@ export default {
             hash: 't_2_2',
           },
           {
-            numero: '2.2.1',
-            titulo: 'Medidas generales',
-            hash: 't_2_2_1',
-          },
-          {
             numero: '2.3',
             titulo: 'Clasificación y aplicación de medidas',
             hash: 't_2_3',
@@ -94,7 +89,7 @@ export default {
         subMenu: [
           {
             numero: '3.1',
-            titulo: '3.1	Elaboración de patrones',
+            titulo: 'Elaboración de patrones',
             hash: 't_3_1',
           },
         ],
@@ -185,9 +180,19 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: ' ',
-          cargo: ' ',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Carolina Herrera Sánchez',
+          cargo: 'Desarrolladora de contenidos',
+          centro: 'Centro Agroindustrial - Regional Quindío',
+        },
+        {
+          nombre: 'Nohora Amparo Nieto Cárdenas',
+          cargo: 'Desarrolladora de contenidos',
+          centro: 'Centro Agroindustrial - Regional Quindío',
+        },
+        {
+          nombre: 'Yazmin Rocio Figueroa Pacheco',
+          cargo: 'Evaluadora instruccional',
+          centro: 'Centro Agroturístico – Regional Santander ',
         },
       ],
     },
@@ -195,18 +200,18 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: ' ',
-          cargo: 'Diseñador de contenidos',
+          nombre: 'Yazmin Rocio Figueroa Pacheco',
+          cargo: 'Diseñadora de contenidos',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
+          nombre: 'Leonardo Castellanos Rodríguez',
           cargo: 'Desarrollador <i>full stack</i>',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
-          cargo: 'Animador y productor audiovisual',
+          nombre: 'Maria Alejandra Vera Briceño',
+          cargo: 'Animadora y productora audiovisual',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
@@ -215,13 +220,13 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: ' ',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          nombre: 'Erika Daniela Manrique Rueda',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          nombre: 'Erika Fernanda Mejía Pinzón',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
