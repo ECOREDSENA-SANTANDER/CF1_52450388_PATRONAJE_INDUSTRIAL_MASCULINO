@@ -28,7 +28,7 @@
               h4.text-white  Manual de patronaje básico
               p.text-white Para ampliar la información sobre el cuadro de tallas masculinas, revisar el documento página 67 del PDF. 
             .col-sm-auto.col-lg-2
-              a.boton.bg6.texto-blanco(:href="obtenerLink('/https://sena4.sharepoint.com/:b:/r/sites/VirtualizacionRED/Documentos%20compartidos/2025/LP-Santander/COMPLEMENTARIAS/Adaptaci%C3%B3n%20a%20partir%20de%20Tituladas/52450388.%20Patronaje%20industrial%20masculino/1.%20FinalxVirtualizar/Contenidos/CF01/Formatos%20DI/ANEXO/Manual%20de%20patronaje.pdf?csf=1&web=1&e=ziDNFq')" target="_blank")  
+              a.boton.bg6.texto-blanco(:href="obtenerLink('/downloads/Manual_de_patronaje.pdf')" target="_blank")  
                 span Descargar
                 i.fas.fa-file-arrow-down
     separador

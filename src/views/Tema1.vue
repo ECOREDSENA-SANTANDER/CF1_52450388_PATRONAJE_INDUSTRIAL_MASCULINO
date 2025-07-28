@@ -157,7 +157,7 @@
                 h4.text-white  Antropometría
                 p.text-white Para ampliar la información sobre antropometría, se sugiere consultar el siguiente documento.
               .col-sm-auto.col-lg-2
-                a.boton.bg6.texto-blanco(:href="obtenerLink('')" target="_blank")  
+                a.boton.bg6.texto-blanco(:href="obtenerLink('/downloads/antropometria.pdf')" target="_blank")  
                   span Descargar
                   i.fas.fa-file-arrow-down
 
