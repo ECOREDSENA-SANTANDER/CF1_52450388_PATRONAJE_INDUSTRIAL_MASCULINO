@@ -7,12 +7,12 @@
         span 3
       h1 Procedimiento del patronaje
 
-    .row.justify-content-center.align-items-.mb-5(data-aos="zoom-in-left")
+    .row.justify-content-center.align-items-.mb-0(data-aos="zoom-in-left")
       .col-lg-9
         .row.justify-content-center.align-items-center.mb-4
           .col-lg-5.d-none.d-lg-block
             img(src='@/assets/curso/Tema3/img01.svg', alt='') 
-          .col-lg-7.bg1.p-4
+          .col-lg-7.bg1_2.p-4
             p.mt-2 El patronaje permite la construcción de una prenda de vestir al desglosar las diferentes partes del cuerpo humano a cubrir, de manera que cada trozo de tela se adapta a esa área y la unión de todas las piezas da como resultado el diseño del modelo propuesto.
             p.mb-4 A cada una de las partes resultantes de dividir la totalidad de la figura geométrica plana que ha formado el molde de las prendas dibujadas sobre papel, se le llaman piezas, mientras al conjunto de todas ellas patrón.
         p El departamento de patronaje es el encargado de hacer que un dibujo de dos dimensiones se convierta en una prenda que se siente bien; es decir, es el responsable de crear el patrón con el que se cortará y posteriormente se confeccionará dicha prenda.
@@ -27,7 +27,7 @@
     p.mb-4 A continuación, se describen los pasos de creación que componen el proceso para elaborar una prenda estructurada:
 
     .row.justify-content-center.mb-3(data-aos="zoom-in-left")
-      .col-lg-8.mb-2
+      .col-lg-8.mb-4
         TabsA.color-acento-botones
           .tarjeta.color-acento-botones.bg1.p-4(titulo="Patrón base")
             .row.justify-content-center.align-items-center
@@ -43,7 +43,7 @@
                 p Es el que corresponde a la totalidad de patrones que conforman la prenda y que integran los diferentes materiales textiles. De acuerdo al tipo de tejido existen tres clases de patronaje prototipo:
                 ul.lista-ul--color
                   li.mb-1
-                    i.fas.fa-chevron-right
+                    i.fas.fa-circle-chevron-right
                     | #[b Tejido exterior:]
                     li.mb-1
                       i.mb-0   
@@ -52,12 +52,12 @@
                       i
                       | • Piezas secundarias o avíos.
                   li.mb-1
-                    i.fas.fa-chevron-right
+                    i.fas.fa-circle-chevron-right
                     | #[b Material de refuerzo o relleno.]
                   li.mb-0
-                    i.fas.fa-chevron-right
+                    i.fas.fa-circle-chevron-right
                     | #[b Sacos bolsillo. (Camps, 1995).]
-      .col-lg-4.col-9.col-md-6(data-aos="zoom-in-left")
+      .col-lg-4.col-9.col-md-6.mb-4(data-aos="zoom-in-left")
         img(src='@/assets/curso/Tema3/img03.png', alt='') 
 
 
@@ -109,7 +109,7 @@
 
     p.mb-4(data-aos="zoom-in-left") Para materializar los conceptos descritos, se presenta el caso práctico del proceso de patronaje para una camisa básica masculina. 
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
+    .row.justify-content-center.align-items-center.mb-0(data-aos="fade-down")
       .col-lg-6  
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Figura 17. 

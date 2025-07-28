@@ -9,12 +9,12 @@
       .row.justify-content-center(data-aos="zoom-in-left")
         .col-lg-8
           .row.justify-content-center.align-items-center.mb-4
-            .col-lg-8.bg1.p-4
+            .col-lg-8.bg1_1.p-4
               p.mt-4 La antropometría, puede definirse como la ciencia que estudia la medición, tipo y proporciones del cuerpo. Las proporciones del cuerpo humano a través de la historia se han tomado como punto de referencia para la evolución de la figura humana. De allí la importancia de las medidas. (Fuenmayor, 2014).
             .col-lg-4.d-none.d-lg-block
               img(src='@/assets/curso/Tema1/img01.svg', alt='') 
         .col-lg-4
-          .row.align-items-center.mb-5
+          .row.align-items-center
             .col-lg-3.mb-3.d-none.d-lg-block
               img(src='@/assets/curso/Tema1/ico1.svg', alt='') 
             .col-lg-12
@@ -24,22 +24,22 @@
       #t_1_1.titulo-segundo.mb-5
         h2 1.1 Historia del patronaje
 
-      p.mb-5 Para hablar de la historia del patronaje, es necesario tomar como referente el desarrollo de la moda, pues han sido desarrollados de manera simultánea.
-      .row.justify-content-center.mb-3
-        .col-lg-5.col-10.mb-3
+      p.mb-4 Para hablar de la historia del patronaje, es necesario tomar como referente el desarrollo de la moda, pues han sido desarrollados de manera simultánea.
+      .row.justify-content-center.mb-4
+        .col-lg-5.col-10.mb-4
           img(src='@/assets/curso/Tema1/img01.png', alt='') 
         .col-lg-7
           .row.justify-content-center.align-items-center
             .col-lg-12
               p La historia traza una línea entre las prendas elaboradas a partir de telas cortadas adaptadas al cuerpo y a aquellas utilizadas para envolverlo, pues las últimas eran modeladas sobre la figura humana y los materiales que salían directamente del telar tenían una dimensión reducida que obligaba a unirlos para cubrir el cuerpo. Con el uso de la aguja se inició el desarrollo de las prendas de vestir como piezas de ropa sencillas. Estas piezas son ubicadas en la Edad del Bronce en donde se creía que los hombres vestían casacas de cuero y dado que estas muestran alguna complejidad, se puede suponer que tenían algún sistema primario de patrones, aunque no es posible su comprobación.
-          .row.align-items-center.mb-5
-            .col-lg-2.mb-3.d-none.d-lg-block
+          .row.align-items-center.mb-2
+            .col-lg-2.mb-4.d-none.d-lg-block
               img(src='@/assets/curso/Tema1/ico2.svg', alt='') 
             .col-lg-10
               p Se tienen indicios de que los primeros patrones asociados a piezas repetidas fueron de las mangas, las cuales aparecieron en culturas persas, turcas y pueblos caucásicos, siendo muy notorio el uso de esos patrones.
       
-      .row.justify-content-center.mb-5
-        .col-lg-6.mb-3
+      .row.justify-content-center.mb-0
+        .col-lg-6.mb-5
           LineaTiempoD.color-acento-botones.activo
             .row(numero="1" titulo="En la Edad Media")
               .col-md-12.mb-4.mb-md-0
@@ -70,22 +70,22 @@
       #t_1_2.titulo-segundo.mb-5
         h2 1.2 Antropometría, anatomía y ejes del cuerpo
 
-      .row.justify-content-center.mb-5(data-aos="zoom-in-left")
+      .row.justify-content-center.mb-4(data-aos="zoom-in-left")
         .col-lg-9
           .row.justify-content-center.align-items-center.mb-4
             .col-lg-5.d-none.d-lg-block
               img(src='@/assets/curso/Tema1/ico3.svg', alt='') 
-            .col-lg-7.bg1.p-4
-              p.mt-5.mb-5 La antropometría (del griego ánthropos, hombre, y metro, medida; y el sufijo - ia, cualidad) estudia las medidas y dimensiones de partes del cuerpo humano, ya que estas varían de un individuo a otro. Esta se clasifica en estática o estructural (estudia las medidas de cabeza, troncos, y extremidades en posiciones fijas) y funcional (estudio de medidas del cuerpo mientras está en movimiento). (Antón, 2012).
+            .col-lg-7.bg1_2.p-4
+              p.mt-5.mb-5 La antropometría (del griego #[em ánthropos], hombre, y metro, medida; y el sufijo - ia, cualidad) estudia las medidas y dimensiones de partes del cuerpo humano, ya que estas varían de un individuo a otro. Esta se clasifica en estática o estructural (estudia las medidas de cabeza, troncos, y extremidades en posiciones fijas) y funcional (estudio de medidas del cuerpo mientras está en movimiento). (Antón, 2012).
           p La importancia de esta ciencia en una sociedad en la que la industria de la moda tiene como principal actividad vestir al ser humano, radica en la asignación de las medidas a las diferentes tallas, lo que permite establecer las tablas de dimensiones para facilitar la elaboración de los patrones y la confección de prendas de manera práctica y sencilla.
-        .col-lg-3.col-7.col-md-6
+        .col-lg-3.col-6.col-md-6
           img(src='@/assets/curso/Tema1/img03.png', alt='') 
 
-      .row.justify-content-center.align-items-center.mb-5
-        .col-lg-5.mb-3.col-10
+      .row.justify-content-center.align-items-center.mb-4
+        .col-lg-5.mb-4.col-10
           img(src='@/assets/curso/Tema1/img04.png', alt='') 
         .col-lg-7
-          .row.justify-content-center.align-items-center
+          .row.justify-content-center.align-items-center.mb-3
             .col-lg-12
               p De otro lado, la anatomía estudia la manera como se distribuye el cuerpo humano y la estructura de los seres vivos (disposición de huesos y órganos y la relación que existe entre ellos). Es por esto que la anatomía es fundamental en la industria de la moda, pues permite diseñar prendas de vestir con base en características específicas y permite resaltar cualidades y disimular defectos, buscando la satisfacción de las personas. (Soto, 2009).
           .bloque-texto-e.bg1.p-4
@@ -166,13 +166,13 @@
         h2 1.3 Convenciones en la señalización de patrones
       
       .row.justify-content-center.mb-0
-        .col-lg-5.col-10.mb-3
+        .col-lg-5.col-10.mb-4
           img(src='@/assets/curso/Tema1/img05.png', alt='') 
         .col-lg-7
           .row.justify-content-center.align-items-center
             .col-lg-12
               p En el patronaje industrial, la comunicación clara y sin errores es fundamental para pasar del diseño a la producción. Para lograrlo, se utiliza un sistema estandarizado de convenciones en la señalización de patrones. Estos códigos, en su mayoría gráficos, funcionan como un lenguaje universal que sustituye el uso de textos extensos o referencias alfanuméricas complejas. La función principal de estas convenciones es indicar la manera correcta en que cada pieza despiezada debe ser posicionada y aplomada sobre la tela para proceder a su corte.
-          .row.align-items-center.mb-3
+          .row.align-items-center.mb-0
             .col-lg-2.mb-3.d-none.d-lg-block
               img(src='@/assets/curso/Tema1/ico2.svg', alt='') 
             .col-lg-10
@@ -186,7 +186,7 @@
 
       p.mb-4 Estos son los símbolos visuales que se trazan sobre el patrón. Cada uno tiene un significado preciso y vital para la confección. En la siguiente tabla se presentan las convenciones más empleadas:
 
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-4
         .col-lg-12
           .titulo-sexto.color-acento-contenido(data-aos='fade-right')
             h5 Tabla 1. 
@@ -194,10 +194,10 @@
           img.mb-3(src='@/assets/curso/Tema1/tabla1.svg', alt='La tabla muestra en dos columnas los símbolos gráficos y sus descripciones correspondientes. Incluye símbolos clave como indicación que un segmento divide en dos partes y en tres partes, el hilo de tela, medida descifrada en el trazo, cortar, el doblez, los piquetes, las perforaciones para ubicaciones internas.')  
           figcaption Fuente: SENA, (2019).
 
-      p.mb-4 Además de los símbolos gráficos, cada pieza del patrón debe funcionar como una ficha técnica que contiene información escrita esencial para su correcta identificación, organización y producción. Al momento de separar o despiezar los moldes, se debe incluir la siguiente información:
+      p.mb-5 Además de los símbolos gráficos, cada pieza del patrón debe funcionar como una ficha técnica que contiene información escrita esencial para su correcta identificación, organización y producción. Al momento de separar o despiezar los moldes, se debe incluir la siguiente información:
 
-      .row.justify-content-center.mb-5
-        .col-lg-3.col-8.mb-3.col-md-6
+      .row.justify-content-center.mb-3
+        .col-lg-3.col-8.mb-3.col-md-6.mb-5
           img(src="@/assets/curso/Tema1/img06.svg")
         .col-lg-9
           AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
@@ -218,8 +218,8 @@
               .col-md-12.mb-4.mb-md-0
                 p Esta instrucción (ej. “Cortar x2”, “Cortar x1 al doblez”) es una orden directa para el personal de corte que define el número de piezas idénticas que se deben obtener de la tela.  Es un dato crítico para asegurar que se disponga de todos los componentes necesarios para el ensamblaje completo de la prenda.
 
-      .row.justify-content-center.mb-5  
-        .col-lg-9
+      .row.justify-content-center.mb-3
+        .col-lg-9.mb-4
           AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
             .row(titulo="Nombre del patronista")
               .col-md-12.mb-4.mb-md-0
@@ -264,7 +264,7 @@
                   img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/Tema1/ico01.svg' alt='AvatarTop')
                   .row.justify-content-center
                     .col-8.mb-2
-                      h4.text-center.bg-color.p-2.text-white Líneas y ángulos
+                      h4.text-center.bg-color.p-2 Líneas y ángulos
                     .col-10.mb-4 
                       p.text-center.mb-0 Las líneas horizontales, verticales y paralelas establecen los ejes y guías del patrón. El ángulo recto de 90 grados es la base para escuadrar y asegurar que las piezas encajen correctamente.
                   
@@ -274,7 +274,7 @@
                   img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/Tema1/ico02.svg' alt='AvatarTop')
                   .row.justify-content-center
                     .col-9.mb-2
-                      h4.text-center.bg-color.p-2.text-white Figuras planas 
+                      h4.text-center.bg-color.p-2 Figuras planas 
                     .col-10.mb-4 
                       p.text-center.mb-0 Los rectángulos y cuadrados suelen formar el cuerpo principal de las piezas, como el torso de una camisa o la pernera de un pantalón, antes de ser modificados con curvas y otros detalles.
             .tarjeta.color.p-4
@@ -284,7 +284,7 @@
                   .row.justify-content-center
                     .col-9.mb-2
                       h4.text-center.bg-color.p-2 Diagonales 
-                    .col-10.mb-4 
+                    .col-10.mb-4
                       p.text-center.mb-0 Las líneas diagonales o al sesgo son cruciales para ciertos cortes y para comprender cómo se comportará la tela en partes específicas del diseño.
             
             .tarjeta.color.p-4
@@ -303,7 +303,7 @@
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/Tema1/img07.png')})`}"
         )
-        .bloque-texto-g__texto.p-4
+        .bloque-texto-g__texto.textizq.p-4
           i.fas.fa-circle-chevron-right
           |  Pliegos de papel manifold, bond o periódico sin imprimir (usado para el diseño del patrón). 
           br
@@ -325,7 +325,7 @@
           i.fas.fa-circle-chevron-right
           |  Borrador de nata.
 
-      p.mb-3 Adicionalmente, se requieren los siguientes elementos:
+      p.mb-0 Adicionalmente, se requieren los siguientes elementos:
 
       .row.justify-content-start.mb-4(data-aos="zoom-in-left")
         .col-sm-12.col-lg-7
@@ -339,12 +339,12 @@
           PasosA.color-acento-botones.mb-5(tipo="l").mt-5
             .row
               .col-md-7.mb-4.mb-md-0
-                h3 Piqueteador de moldes (Los piquetes también pueden hacerse con tijeras)
+                h3 Piqueteador de moldes (los piquetes también pueden hacerse con tijeras)
                 p Sirve para hacer los agujeros en donde el molde debe llevar piquetes. Cuando los patrones se elaboran en cartón grueso, no se pueden usar las tijeras.
               .col-md-4
                 img(src='@/assets/curso/Tema1/1.svg', alt='')
 
-            .row
+            .row.texto_izquierda
               .col-md-4.mb-3
                 img(src='@/assets/curso/Tema1/2.svg', alt='')
               .col-md-6
@@ -360,7 +360,7 @@
               .col-md-4
                 img(src='@/assets/curso/Tema1/3.svg', alt='')
 
-            .row
+            .row.texto_izquierda
               .col-md-4.mb-3
                 img(src='@/assets/curso/Tema1/4.svg', alt='')
               .col-md-6

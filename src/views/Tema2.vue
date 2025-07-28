@@ -7,8 +7,8 @@
         span 2
       h1 Medidas del cuerpo
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
-      .col-lg-5.mb-3.col-md-8
+    .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-left")
+      .col-lg-5.mb-4.col-md-8
         img(src='@/assets/curso/Tema2/img01.png', alt='')
       .col-lg-7
         .row
@@ -44,7 +44,7 @@
           
     p A continuación, se detallan los puntos de referencia clave, agrupados por su vista anatómica.
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
+    .row.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-left")
         .col-lg-12.col-12
           TabsC
             .relleno.py-3.py-md-4(titulo="Puntos de referencia frontales").fondotabs
@@ -58,7 +58,7 @@
                         h5 Figura 4.
                         span  Puntos frontales masculinos
                       figure
-                        img(src='@/assets/curso/Tema2/img04.png', alt='Ilustración que detalla los puntos de referencia anatómicos para la vista frontal del cuerpo humano. La imagen señala ubicaciones clave para la toma de medidas, como el punto de acromio, los pliegues axilares, biceps, zana perineal, centro de puño y centro frente zona umbilical. ')
+                        img(src='@/assets/curso/Tema2/img04.svg', alt='Ilustración que detalla los puntos de referencia anatómicos para la vista frontal del cuerpo humano. La imagen señala ubicaciones clave para la toma de medidas, como el punto de acromio, los pliegues axilares, biceps, zana perineal, centro de puño y centro frente zona umbilical. ')
                     .py-2
                     figcaption SENA, (2019).
                 
@@ -94,7 +94,7 @@
                         h5 Figura 5. 
                         span  Puntos anatómicos laterales masculinos
                       figure
-                        img(src='@/assets/curso/Tema2/img05.png', alt='Ilustración que detalla los puntos de referencia anatómicos en la vista de perfil del cuerpo. La imagen señala ubicaciones clave para la toma de medidas, como la fosa axilar, apófisis estiloide del radio y la terminación de la reja costal. ')
+                        img(src='@/assets/curso/Tema2/img05.svg', alt='Ilustración que detalla los puntos de referencia anatómicos en la vista de perfil del cuerpo. La imagen señala ubicaciones clave para la toma de medidas, como la fosa axilar, apófisis estiloide del radio y la terminación de la reja costal. ')
                     .py-2
                     figcaption SENA, (2019).
                 
@@ -121,7 +121,7 @@
                         h5 Figura 6. 
                         span  Puntos anatómicos posteriores masculinos
                       figure
-                        img(src='@/assets/curso/Tema2/img06.png', alt='Ilustración que detalla los puntos de referencia anatómicos en la vista posterior del cuerpo. La imagen señala ubicaciones clave para la toma de medidas, como la fosa supraclavicular, pliegue posterior, apófisis estiloide, séptima vértebra cervical, promontorio e inicio y las crestas ilíacas.')
+                        img(src='@/assets/curso/Tema2/img06.svg', alt='Ilustración que detalla los puntos de referencia anatómicos en la vista posterior del cuerpo. La imagen señala ubicaciones clave para la toma de medidas, como la fosa supraclavicular, pliegue posterior, apófisis estiloide, séptima vértebra cervical, promontorio e inicio y las crestas ilíacas.')
                     .py-2
                     figcaption SENA, (2019).
                 
@@ -173,7 +173,7 @@
 
     p.mb-3 A continuación, se describen las medidas fundamentales correspondientes a la parte superior del cuerpo masculino. Estos datos son esenciales para el trazado de patrones de prendas como camisas, chaquetas y camisetas, ya que definen el ajuste en el torso, los hombros y los brazos.
 
-    .row.justify-content-center.align-items-center.mb-5.fondoslyder.p-4(data-aos="fade-down")
+    .row.justify-content-center.align-items-center.mb-3.fondoslyder.p-4(data-aos="fade-down")
       .col-lg-12
         SlyderA(tipo="b").fondoblanco.p-4
           .row.justify-content-center.p-4
