@@ -189,7 +189,7 @@
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-12
           .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-            h5 Tabla 1. 
+            h5 Figura 3.
             span Convenciones
           img.mb-3(src='@/assets/curso/Tema1/tabla1.svg', alt='La tabla muestra en dos columnas los símbolos gráficos y sus descripciones correspondientes. Incluye símbolos clave como indicación que un segmento divide en dos partes y en tres partes, el hilo de tela, medida descifrada en el trazo, cortar, el doblez, los piquetes, las perforaciones para ubicaciones internas.')  
           figcaption Fuente: SENA, (2019).
@@ -216,7 +216,7 @@
                 p Es un código alfanumérico único que se le asigna a un modelo específico para su seguimiento y organización en el sistema de producción.  La referencia evita ambigüedades que podrían surgir con nombres de prenda similares y facilita la gestión de inventarios y órdenes de corte.
             .row(titulo="Indicar cuántas veces se corta el patrón:")
               .col-md-12.mb-4.mb-md-0
-                p Esta instrucción (ej. “Cortar x2”, “Cortar x1 al doblez”) es una orden directa para el personal de corte que define el número de piezas idénticas que se deben obtener de la tela.  Es un dato crítico para asegurar que se disponga de todos los componentes necesarios para el ensamblaje completo de la prenda.
+                p Esta instrucción (ej. “cortar x2”, “cortar x1 al doblez”) es una orden directa para el personal de corte que define el número de piezas idénticas que se deben obtener de la tela.  Es un dato crítico para asegurar que se disponga de todos los componentes necesarios para el ensamblaje completo de la prenda.
 
       .row.justify-content-center.mb-3
         .col-lg-9.mb-4
@@ -229,7 +229,7 @@
                 p Este dato identifica el conjunto de patrones de un diseño particular. Aunque a menudo se combina con la referencia, puede servir para versionar o agrupar patrones dentro de una colección, asegurando que se trabaje con el set de moldes correcto. 
             .row(titulo="Enumerar las piezas")
               .col-md-12.mb-4.mb-md-0
-                p Indica el número específico de cada pieza dentro del conjunto total de un patrón (ej. “Pieza 1 / 5”, “Pieza 2 / 5”).  Esta numeración es esencial para el operario de confección, ya que le sirve de guía para seguir el orden de ensamblaje correcto de la prenda y para verificar que no falte ninguna parte.
+                p Indica el número específico de cada pieza dentro del conjunto total de un patrón (ej. “pieza 1/5”, “pieza 2/5”).  Esta numeración es esencial para el operario de confección, ya que le sirve de guía para seguir el orden de ensamblaje correcto de la prenda y para verificar que no falte ninguna parte.
             .row(titulo="Señalizar hilos de tela, piquetes, perforaciones y símbolos de doblez")
               .col-md-12.mb-4.mb-md-0
                 p Además de la información escrita, es indispensable que cada pieza final tenga marcados todos los símbolos gráficos necesarios para su confección.  Esto incluye la línea del hilo de tela para el aplomo correcto, los piquetes para las uniones, las perforaciones para ubicaciones internas y las indicaciones de corte al doblez, garantizando así una interpretación sin errores durante el ensamblaje.
@@ -245,7 +245,7 @@
       .row.justify-content-center.align-items-center.mb-5.fondot01
         .col-lg-6.col-9
           .titulo-sexto.color-acento-contenido(data-aos='fade-right').mt-5
-            h5 Figura 3. 
+            h5 Figura 4. 
             span  Figuras geométricas
           img.mb-3(src='@/assets/curso/Tema1/figura3.png', alt='')  
           figcaption Fuente: Ayuso, (2008).

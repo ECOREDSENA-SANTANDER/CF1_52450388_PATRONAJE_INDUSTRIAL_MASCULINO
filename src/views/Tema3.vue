@@ -112,7 +112,7 @@
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-down")
       .col-lg-6  
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 17. 
+          h5 Figura 18. 
           span Proceso patronaje camisa masculina
       .row.justify-content-center
         .col-lg-6.col-10.col-md-7
@@ -138,7 +138,7 @@
 
     .row.justify-content-center.align-items-center.mb-2(data-aos="fade-down")
       .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-        h5 Tabla 2. 
+        h5 Tabla 1. 
         span Cuadro de tallas y medidas
 
     .tabla-a.color-acento-botones(alt='Detalla las medidas corporales estandarizadas para ropa masculina, en centímetros. Las columnas presentan las tallas desde la XS/34 hasta la XXL/44, y las filas listan las medidas correspondientes, como contornos, anchos y largos.') 

@@ -55,7 +55,7 @@
                       p.mb-0 La vista frontal es esencial para establecer las medidas de ancho del torso, el pecho y los largos de las prendas en la parte delantera del cuerpo.
                     .col-lg-12.col-md-9
                       .titulo-sexto.color-acento-contenido
-                        h5 Figura 4.
+                        h5 Figura 5.
                         span  Puntos frontales masculinos
                       figure
                         img(src='@/assets/curso/Tema2/img04.svg', alt='Ilustración que detalla los puntos de referencia anatómicos para la vista frontal del cuerpo humano. La imagen señala ubicaciones clave para la toma de medidas, como el punto de acromio, los pliegues axilares, biceps, zana perineal, centro de puño y centro frente zona umbilical. ')
@@ -91,7 +91,7 @@
                       p.mb-0 Desde la vista de perfil o lateral, se determinan medidas de profundidad y largos verticales que son cruciales para un ajuste tridimensional de la prenda.
                     .col-lg-12.col-md-9
                       .titulo-sexto.color-acento-contenido
-                        h5 Figura 5. 
+                        h5 Figura 6. 
                         span  Puntos anatómicos laterales masculinos
                       figure
                         img(src='@/assets/curso/Tema2/img05.svg', alt='Ilustración que detalla los puntos de referencia anatómicos en la vista de perfil del cuerpo. La imagen señala ubicaciones clave para la toma de medidas, como la fosa axilar, apófisis estiloide del radio y la terminación de la reja costal. ')
@@ -118,7 +118,7 @@
                       p.mb-0 La vista posterior es fundamental para las medidas de la espalda, una de las zonas más complejas para el ajuste de prendas masculinas.
                     .col-lg-12.col-md-9
                       .titulo-sexto.color-acento-contenido
-                        h5 Figura 6. 
+                        h5 Figura 7. 
                         span  Puntos anatómicos posteriores masculinos
                       figure
                         img(src='@/assets/curso/Tema2/img06.svg', alt='Ilustración que detalla los puntos de referencia anatómicos en la vista posterior del cuerpo. La imagen señala ubicaciones clave para la toma de medidas, como la fosa supraclavicular, pliegue posterior, apófisis estiloide, séptima vértebra cervical, promontorio e inicio y las crestas ilíacas.')
@@ -182,7 +182,7 @@
               p Se obtiene pasando la cinta métrica alrededor de la parte más ancha del cuello, dejando una ligera holgura. 
             .col-lg-4.col-md-6.col-10
               .titulo-sexto.color-acento-contenido
-                h5 Figura 7. 
+                h5 Figura 8. 
                 span  Ejemplo contorno cuello
               figure
                 img(src='@/assets/curso/Tema2/figura7.svg', alt='Ilustra la toma de medida para el contorno de cuello. La imagen presenta una figura humana con una banda resaltada alrededor de la base del cuello, indicando la posición correcta para pasar la cinta métrica.')
@@ -194,7 +194,7 @@
               p Con los brazos de la persona hacia abajo, se pasa la cinta métrica de forma horizontal por el pliegue de sisa a sisa.
             .col-lg-4.col-md-6.col-10
               .titulo-sexto.color-acento-contenido
-                h5 Figura 8. 
+                h5 Figura 9. 
                 span  Ejemplo ancho de pecho
               figure
                 img(src='@/assets/curso/Tema2/figura8.svg', alt='Ilustra la toma de medida para el ancho de pecho. La imagen presenta una figura humana con una banda horizontal resaltada que cruza el pecho, desde el pliegue de una sisa hasta la otra, para indicar la posición correcta de la cinta métrica.')
@@ -208,7 +208,7 @@
               p Se mide desde el punto acromial hasta la muñeca, con el brazo semidoblado para considerar el recorrido del codo.
             .col-lg-4.col-md-6.col-10
               .titulo-sexto.color-acento-contenido
-                h5 Figura 9. 
+                h5 Figura 10. 
                 span  Ejemplo largo de manga
               figure
                 img(src='@/assets/curso/Tema2/figura9.svg', alt='Ilustra el método para medir el largo de manga. Sobre una figura con el brazo semidoblado, una línea resaltada muestra el recorrido de la medida desde el punto acromial del hombro hasta la muñeca.')
@@ -220,7 +220,7 @@
               p Se mide en línea recta desde la base del cuello (vértice cuello - hombro) hasta el punto acromial.
             .col-lg-4.col-md-6.col-10
               .titulo-sexto.color-acento-contenido
-                h5 Figura 10. 
+                h5 Figura 11. 
                 span  Ejemplo hombro
               figure
                 img(src='@/assets/curso/Tema2/figura10.svg', alt='Ilustra el método para medir el hombro. Una línea recta resaltada sobre la figura humana muestra la trayectoria de la medida desde la base del cuello hasta el punto acromial del hombro.')
@@ -232,7 +232,7 @@
               p Se rodea la muñeca con la cinta métrica, dejando un poco de holgura.
             .col-lg-4.col-md-6.col-10
               .titulo-sexto.color-acento-contenido
-                h5 Figura 11.
+                h5 Figura 12.
                 span   Ejemplo contorno de puño
               figure
                 img(src='@/assets/curso/Tema2/figura11.svg', alt='Ilustra el método para medir el contorno de puño. La imagen presenta una figura humana, y una banda resaltada rodea la muñeca para indicar la ubicación correcta de la cinta métrica.')
@@ -244,7 +244,7 @@
               p Se rodea la cintura, pasando aproximadamente por encima del ombligo, ajustando la cinta sin que quede floja.
             .col-lg-4.col-md-6.col-10
               .titulo-sexto.color-acento-contenido
-                h5 Figura 12. 
+                h5 Figura 13. 
                 span  Ejemplo contorno de cintura 
               figure
                 img(src='@/assets/curso/Tema2/figura12.svg', alt='Ilustra el método para medir el contorno de cintura. Sobre una figura humana, una banda resaltada rodea la cintura, a la altura aproximada del ombligo, para señalar la ubicación correcta de la cinta métrica')
@@ -266,7 +266,7 @@
               p Con la persona sentada en una superficie plana, se mide por el costado desde la línea de la cintura hasta la superficie del asiento. Es una medida fundamental para la comodidad del pantalón.
             .col-md-4
               .titulo-sexto.color-acento-contenido
-                h5 Figura 13. 
+                h5 Figura 14. 
                 span  Ejemplo tiro
               figure
                 img(src='@/assets/curso/Tema2/figura13.svg', alt='Ilustra el método para medir el tiro. Una flecha vertical en el costado de una figura sentada muestra la medida desde la línea de la cintura hasta la superficie plana del asiento.')
@@ -274,7 +274,7 @@
           .row
             .col-md-4.mb-3
               .titulo-sexto.color-acento-contenido
-                h5 Figura 14. 
+                h5 Figura 15. 
                 span  Ejemplo contorno de base o cadera
               figure
                 img(src='@/assets/curso/Tema2/figura14.svg', alt='Ilustra el método para medir el contorno de base o cadera. La imagen presenta una figura humana, y una banda horizontal resaltada rodea las caderas por la parte más saliente de los glúteos, para indicar la posición correcta de la cinta métrica.')
@@ -290,7 +290,7 @@
 
             .col-md-4
               .titulo-sexto.color-acento-contenido
-                h5 Figura 15. 
+                h5 Figura 16. 
                 span  Ejemplo largo total
               figure
                 img(src='@/assets/curso/Tema2/figura15.svg', alt='Ilustra el método para medir el largo total para pantalones. Una línea vertical resaltada en el costado de la figura muestra la medida desde la cintura hasta el tobillo.')
@@ -298,7 +298,7 @@
           .row
             .col-md-4.mb-3
               .titulo-sexto.color-acento-contenido
-                h5 Figura 16. 
+                h5 Figura 17. 
                 span Ejemplo bota
               figure
                 img(src='@/assets/curso/Tema2/figura16.svg', alt='Ilustración que detalla la toma de medida para la bota del pantalón. La imagen presenta una figura humana, y una banda resaltada rodea el tobillo para indicar el contorno que define el ancho final.')
