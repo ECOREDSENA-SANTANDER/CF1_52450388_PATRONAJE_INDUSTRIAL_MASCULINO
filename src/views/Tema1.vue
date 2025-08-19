@@ -191,7 +191,7 @@
           .titulo-sexto.color-acento-contenido(data-aos='fade-right')
             h5 Figura 3.
             span Convenciones
-          img.mb-3(src='@/assets/curso/Tema1/tabla1.svg', alt='La tabla muestra en dos columnas los símbolos gráficos y sus descripciones correspondientes. Incluye símbolos clave como indicación que un segmento divide en dos partes y en tres partes, el hilo de tela, medida descifrada en el trazo, cortar, el doblez, los piquetes, las perforaciones para ubicaciones internas.')  
+          img.mb-3(src='@/assets/curso/Tema1/tabla1.svg', alt='La figura muestra en dos columnas los símbolos gráficos y sus descripciones correspondientes. Incluye símbolos clave como indicación que un segmento divide en dos partes y en tres partes, el hilo de tela, medida descifrada en el trazo, cortar, el doblez, los piquetes, las perforaciones para ubicaciones internas.')  
           figcaption Fuente: SENA, (2019).
 
       p.mb-5 Además de los símbolos gráficos, cada pieza del patrón debe funcionar como una ficha técnica que contiene información escrita esencial para su correcta identificación, organización y producción. Al momento de separar o despiezar los moldes, se debe incluir la siguiente información:
@@ -216,7 +216,7 @@
                 p Es un código alfanumérico único que se le asigna a un modelo específico para su seguimiento y organización en el sistema de producción.  La referencia evita ambigüedades que podrían surgir con nombres de prenda similares y facilita la gestión de inventarios y órdenes de corte.
             .row(titulo="Indicar cuántas veces se corta el patrón:")
               .col-md-12.mb-4.mb-md-0
-                p Esta instrucción (ej. “cortar x2”, “cortar x1 al doblez”) es una orden directa para el personal de corte que define el número de piezas idénticas que se deben obtener de la tela.  Es un dato crítico para asegurar que se disponga de todos los componentes necesarios para el ensamblaje completo de la prenda.
+                p Esta instrucción (ej. “cortar x 2”, “cortar x 1 al doblez”) es una orden directa para el personal de corte que define el número de piezas idénticas que se deben obtener de la tela.  Es un dato crítico para asegurar que se disponga de todos los componentes necesarios para el ensamblaje completo de la prenda.
 
       .row.justify-content-center.mb-3
         .col-lg-9.mb-4
