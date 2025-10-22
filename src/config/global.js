@@ -191,7 +191,7 @@ export default {
     {
       termino: 'Industrialización',
       significado:
-        'recibe este nombre la serie de operaciones que consisten en preparar al patronaje para para facilitar el proceso de corte y confección de las prendas.',
+        'recibe este nombre la serie de operaciones que consisten en preparar al patronaje para facilitar el proceso de corte y confección de las prendas.',
     },
     {
       termino: 'Patronaje',
@@ -242,8 +242,7 @@ export default {
     {
       referencia:
         'Fuenmayor, O. (2014). Tallas y medidas: la importancia de la Antropometría en la empresa de Moda. Recuperado de ',
-      link:
-        'http://web.archive.org/web/20180421154541/http://www.modaytecnologia.com/tallas-y-medidas-la-importancia-de-la-antropometria/',
+      link: 'https://es.scribd.com/document/403421109/Tallas-y-Medidas-docx',
     },
     {
       referencia:

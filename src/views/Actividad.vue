@@ -143,7 +143,7 @@ export default {
         {
           id: 6,
           texto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo. Para tomar la medida del tiro, la persona debe estar de pie y con la espalda recta, midiendo desde la cintura hasta la altura del tobillo.',
+            'Para tomar la medida del tiro, la persona debe estar de pie y con la espalda recta, midiendo desde la cintura hasta la altura del tobillo.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [

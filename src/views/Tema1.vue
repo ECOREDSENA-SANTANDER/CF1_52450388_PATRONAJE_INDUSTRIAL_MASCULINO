@@ -214,7 +214,7 @@
             .row(titulo="Referencia")
               .col-md-12.mb-4.mb-md-0
                 p Es un código alfanumérico único que se le asigna a un modelo específico para su seguimiento y organización en el sistema de producción.  La referencia evita ambigüedades que podrían surgir con nombres de prenda similares y facilita la gestión de inventarios y órdenes de corte.
-            .row(titulo="Indicar cuántas veces se corta el patrón:")
+            .row(titulo="Indicar cuántas veces se corta el patrón")
               .col-md-12.mb-4.mb-md-0
                 p Esta instrucción (ej. “cortar x 2”, “cortar x 1 al doblez”) es una orden directa para el personal de corte que define el número de piezas idénticas que se deben obtener de la tela.  Es un dato crítico para asegurar que se disponga de todos los componentes necesarios para el ensamblaje completo de la prenda.
 
@@ -247,7 +247,7 @@
           .titulo-sexto.color-acento-contenido(data-aos='fade-right').mt-5
             h5 Figura 4. 
             span  Figuras geométricas
-          img.mb-3(src='@/assets/curso/Tema1/figura3.png', alt='')  
+          img.mb-3(src='@/assets/curso/Tema1/figura3.png', alt='Ilustración que detalla los puntos de referencia anatómicos para la vista frontal del cuerpo humano. La imagen señala ubicaciones clave para la toma de medidas, como el punto de acromio, los pliegues axilares, biceps, zana perineal, centro de puño y centro frente zona umbilical.')  
           figcaption Fuente: Ayuso, (2008).
 
       p.mb-3 Las figuras geométricas presentan el vocabulario visual fundamental para el patronista. Cada forma tiene un propósito específico en la creación de los moldes:
