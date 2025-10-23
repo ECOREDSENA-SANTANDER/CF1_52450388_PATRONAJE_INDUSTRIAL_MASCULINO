@@ -314,7 +314,7 @@
       .col-lg-10.col-11
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/UkwF4YVTnLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/Hu6uQAOemIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Patronaje industrial masculino: toma de medidas
 
 

@@ -247,7 +247,7 @@
           .titulo-sexto.color-acento-contenido(data-aos='fade-right').mt-5
             h5 Figura 4. 
             span  Figuras geométricas
-          img.mb-3(src='@/assets/curso/Tema1/figura3.png', alt='Ilustración que detalla los puntos de referencia anatómicos para la vista frontal del cuerpo humano. La imagen señala ubicaciones clave para la toma de medidas, como el punto de acromio, los pliegues axilares, biceps, zana perineal, centro de puño y centro frente zona umbilical.')  
+          img.mb-3(src='@/assets/curso/Tema1/figura3.png', alt='Se presentan las formas básicas para el trazado de patrones. La figura agrupa y nombra elementos esenciales como líneas (horizontales, verticales, paralelas), figuras (rectángulo, cuadrado), paralelo, ángulos rectos y varios tipos de curvas (cóncavas y convexas).')  
           figcaption Fuente: Ayuso, (2008).
 
       p.mb-3 Las figuras geométricas presentan el vocabulario visual fundamental para el patronista. Cada forma tiene un propósito específico en la creación de los moldes:
